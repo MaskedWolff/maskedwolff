@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,50:8A2BE2,100:FF00FF&section=header&reversal=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%3E+Initializing+MaskedWolff...;%3E+Loading+Cloudflare+Modules...;%3E+Building+APIs...;%3E+Access+Granted+⚡" />
 </p>
 
 ---
