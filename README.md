@@ -1,9 +1,9 @@
-<h1 align="center">Hey 👋 I'm MaskedWolff</h1>
-
-<h3 align="center">building APIs • fixing bugs • repeat ⚡</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=⚡+MASKEDWOLFF+⚡;Building+APIs+%7C+Fixing+Bugs+%7C+Repeating..." />
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Cloudflare+Developer;API+Builder;IPTV+Projects;Always+Learning..." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,50:8A2BE2,100:FF00FF&section=header&reversal=true"/>
 </p>
 
 ---
