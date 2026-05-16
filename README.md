@@ -12,17 +12,17 @@
 
 - ⚡ Building cool stuff
 - ☁️ Learning Cloudflare & APIs
-- 📺 IPTV + Streaming Projects
+- 📺 Streaming Projects
 - 💻 Exploring Node.js & Vercel
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats👨🏻‍💻
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MaskedWolff&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=maskedwolff&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaskedWolff&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maskedwolff&layout=compact&theme=tokyonight"/>
 </p>
