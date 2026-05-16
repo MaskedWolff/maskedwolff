@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hey 👋 I'm MaskedWolff</h1>
 
 <h3 align="center">building APIs • fixing bugs • repeat ⚡</h3>
@@ -27,4 +26,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaskedWolff&layout=compact&theme=tokyonight"/>
 </p>
-```
