@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=⚡+Hey MASKED WOLFF Here+⚡;Building+APIs+%7C+Fixing+Bugs+%7C+Repeating..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Hey+👋+MaskedWolff+Here;Code.+Build.+Repeat.+⚡" />
 </h1>
 
 <p align="center">
